@@ -1,2 +1,5 @@
-# Dashboard_KPI-s
-pipedrive to datapine at Lindera GmbH
+# Dashboard_KPI's @Lindera GmbH
+-About Lindera Gmbh:
+-About my Task:
+-What I did:
+
